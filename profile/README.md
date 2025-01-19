@@ -8,7 +8,7 @@ Let’s explore the Siri scandals, including the implications of the lawsuit and
 ## Table of Contents
 - [What Is Siri?](#what-is-siri)
 - [The Rise of Siri: Why It Became a Favorite](#the-rise-of-siri-why-it-became-a-favorite)
-- [Major Siri Scandals](#major-siri-scandals)
+- [Major Siri Scandals]([#major-siri-scandals]
   - [Privacy Violations](#1-privacy-violations)
   - [Eavesdropping Allegations](#2-eavesdropping-allegations)
   - [Gender Bias Accusations](#3-gender-bias-accusations)
